@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Industry-Level Backend Setup (YouTube Clone Starter)
 
 This repository provides a scalable, production-style backend foundation for a full-stack application. It includes clean authentication logic, modular controllers, and integration with MongoDB Atlas and Cloudinary. Designed with clarity and extensibility in mind, this setup is ideal for developers building robust Node.js applications.
